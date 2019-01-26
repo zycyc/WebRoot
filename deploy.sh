@@ -24,3 +24,6 @@ git push origin master
 cd ..
 
 # Update changes in "WebRoot" folder
+git add .
+git commit -m "update"
+git push origin master
