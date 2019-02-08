@@ -2,4 +2,4 @@
 title: "Blog"
 ---
 
-Here is some introduction text for my blog. You can set this text in the `/blog/_index.md` file. This page uses the `/layouts/blog/list.html` template. 
+Here is my mind palace, you can either take a walk as you like or enjoy a cup of milk.
