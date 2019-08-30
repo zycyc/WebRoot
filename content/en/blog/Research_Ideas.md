@@ -8,6 +8,7 @@ Since being in Charan's lab in Davis, I started to get the true feeling of resea
 
 Still, the story can extend, but I decide to be more practical and just post here ideas that I have thought (and written down of course) of. Some of them might be just naive, some might be extremely hard, but whatever. Here we go:
 
+
 - How can we use psychological or neurofeedback methods to improve athletes' performance?
 
 - Is there any essential difference in the brain when reading books & e-books (or Paper vs. Screen)?
