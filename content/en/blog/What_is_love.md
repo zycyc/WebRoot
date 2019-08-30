@@ -10,3 +10,5 @@ tags: ["Butterflies inside when I am in love with you"]
  - It is when I listen to my favorite song and look at your smile.
 
  - It is when we finish our daily ritual and haste to hang up.
+
+ - It is reciprocal support and understanding.  
