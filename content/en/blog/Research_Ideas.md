@@ -1,5 +1,5 @@
 ---
-title: "Research_Ideas"
+title: "Research Ideas"
 date: 2019-08-30T10:41:17-07:00
 draft: false
 ---
