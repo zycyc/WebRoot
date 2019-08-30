@@ -22,5 +22,5 @@ Still, the story can extend, but I decide to be more practical and just post her
 
 - Does our pre-experience ability in sequence learning reflect some structures we learn or it's just some neural dynamics preconfigured? (check out this [amazing paper](https://www.sciencedirect.com/science/article/pii/S0092867419306403))
 
-- My biggest curiosity: is everything explicable by __LAZINESS__ (behavioral + neural)?
+- My BIGGEST curiosity: is everything explicable by __LAZINESS__ (behavioral + neural)?
 
