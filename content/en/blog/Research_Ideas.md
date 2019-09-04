@@ -4,7 +4,7 @@ date: 2019-08-30T10:41:17-07:00
 draft: false
 ---
 
-Since being in (Charan's lab)[http://dml.ucdavis.edu] in Davis, I started to get the true feeling of research. It is not about pure passion in "I'm doing something special", but more like "I'm doing what attracts me". To be honest, research could be hard and demanding, which probably means occupying tons of your time being stupid; nevertheless, I am still here and being satisfied. I haven't had any chance to publish anything, but it has already hypnotized me. Doing research, no matter which specific project, is just learning to me. I've always loved the feeling of being able to sense the ignorance of myself, no matter in what part of life. And staying in awe about everything is just one necessity of a great and smart learner.
+Since being in [Charan's lab](http://dml.ucdavis.edu) in Davis, I started to get the true feeling of research. It is not about pure passion in "I'm doing something special", but more like "I'm doing what attracts me". To be honest, research could be hard and demanding, which probably means occupying tons of your time being stupid; nevertheless, I am still here and being satisfied. I haven't had any chance to publish anything, but it has already hypnotized me. Doing research, no matter which specific project, is just learning to me. I've always loved the feeling of being able to sense the ignorance of myself, no matter in what part of life. And staying in awe about everything is just one necessity of a great and smart learner.
 
 Still, the story can extend, but I decide to be more practical and just post here ideas that I have thought (and written down of course) of. Some of them might be just naive, some might be extremely hard, but whatever. Here we go:
 
