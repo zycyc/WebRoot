@@ -1,5 +1,5 @@
 ---
-title: "Retrieval Induced Forgetting & Facilitation"
+title: "Leabra"
 weight: 5
 ---
 
